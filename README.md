@@ -10,8 +10,7 @@ In the future, I will implement the following functions:
 
 - **future work** learn 
 
-  one pixel attack
-
+  - [ ] one pixel attack
   - [ ] **UAP**
   - [ ] **Differential Evolution**
   - [ ] update
